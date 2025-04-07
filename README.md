@@ -1,8 +1,5 @@
-# Lumos-Generative-AI-PDF-Chatbot
-----------------------------
-Lumos Chatbot is a Streamlit-based application that allows users to chat with a conversational AI model trained on PDF documents. The chatbot extracts information from uploaded PDF files and answers user questions based on the provided context.
+This chatbot is a Streamlit-based application that allows users to chat with a conversational AI model trained on PDF documents. The chatbot extracts information from uploaded PDF files and answers user questions based on the provided context.
 
-https://lumos-chatbot.streamlit.app/
 
 ## Features
 ----------------------------
